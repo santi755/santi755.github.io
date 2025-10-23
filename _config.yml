@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Santiago Mansilla"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Software Engineer
 
-email: a-mail@mail.mail
+email: santi755@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.png"
 float_logo: true # true, false (default)
@@ -49,7 +49,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/santi755
     desc:	Fork me on github
     share_url:
     share_title:
